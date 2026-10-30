@@ -2,6 +2,6 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-.agents
+.agents/
 
 
